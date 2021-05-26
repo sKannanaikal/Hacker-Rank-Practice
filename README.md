@@ -1,2 +1,2 @@
 # Hacker-Rank-Practice
-A collection of program solution to a variety of questions I've worked on from hacker rank
+A collection of program solutions to a variety of questions I've worked on from hacker rank
